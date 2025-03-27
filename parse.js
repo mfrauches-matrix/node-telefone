@@ -2,7 +2,7 @@
 //https://www.teleco.com.br/num.asp
 //https://forum.vivo.com.br/threads/52419-N%C3%BAmero-de-Celular-sem-come%C3%A7ar-com-quot-9-quot-ainda-existe
 
-const codigosDDD = [
+module.exports = codigosDDD = [
     11, 12, 13, 14, 15, 16, 17, 18, 19,
     21, 22, 24, 27, 28, 31, 32, 33, 34,
     35, 37, 38, 41, 42, 43, 44, 45, 46,
